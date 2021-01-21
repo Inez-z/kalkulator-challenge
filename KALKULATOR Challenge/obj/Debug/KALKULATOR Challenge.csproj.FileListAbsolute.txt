@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\KALKULATOR Challenge\KALKULATOR Challenge\bin\Debug\KALKULATOR Challenge.exe.config
+C:\Users\ASUS\source\repos\KALKULATOR Challenge\KALKULATOR Challenge\bin\Debug\KALKULATOR Challenge.exe
+C:\Users\ASUS\source\repos\KALKULATOR Challenge\KALKULATOR Challenge\bin\Debug\KALKULATOR Challenge.pdb
+C:\Users\ASUS\source\repos\KALKULATOR Challenge\KALKULATOR Challenge\obj\Debug\KALKULATOR Challenge.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KALKULATOR Challenge\KALKULATOR Challenge\obj\Debug\KALKULATOR_Challenge.FormKallkulator.resources
+C:\Users\ASUS\source\repos\KALKULATOR Challenge\KALKULATOR Challenge\obj\Debug\KALKULATOR_Challenge.Properties.Resources.resources
+C:\Users\ASUS\source\repos\KALKULATOR Challenge\KALKULATOR Challenge\obj\Debug\KALKULATOR Challenge.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KALKULATOR Challenge\KALKULATOR Challenge\obj\Debug\KALKULATOR Challenge.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KALKULATOR Challenge\KALKULATOR Challenge\obj\Debug\KALKULATOR Challenge.exe
+C:\Users\ASUS\source\repos\KALKULATOR Challenge\KALKULATOR Challenge\obj\Debug\KALKULATOR Challenge.pdb
